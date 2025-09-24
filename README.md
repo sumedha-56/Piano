@@ -24,7 +24,7 @@ CSS – Styling for piano keys.
 
 Clone the repository:
 
-git clone https://github.com/your-username/tone-piano.git
+git clone https://github.com/sumedha-56/Piano.git
 cd tone-piano
 
 
